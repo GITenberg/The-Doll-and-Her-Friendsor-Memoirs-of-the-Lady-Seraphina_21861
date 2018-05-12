@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '9579'
     url: http://www.gutenberg.org/2009/agents/9579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21861#The-Doll-and-Her-Friendsor-Memoirs-of-the-Lady-Seraphina
 gutenberg_issued: '2007-06-18'
 gutenberg_type: Text
 identifiers:
